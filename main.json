@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "username": "amoo",
+            "passward": "Amoo@1",
+            "profile": {
+                "Descreption": "dtyui",
+                "dob": "etrfyui",
+                "Hobbis": "xdfghj",
+                "Gender": "female"
+            }
+        },
+        {
+            "username": "asdfghj",
+            "passward": "A@w1",
+            "profile": {
+                "Descreption": "ertyui",
+                "dob": "retyui",
+                "Hobbis": "tyuio",
+                "Gender": "yui"
+            }
+        },
+        {
+            "username": "amrita tiwari",
+            "passward": "avika@12",
+            "profile": {
+                "Descreption": " my discreption is nothin to tell ",
+                "dob": "4/08/2002",
+                "Hobbis": "writing poems",
+                "Gender": "female"
+            }
+        }
+    ]
+}
